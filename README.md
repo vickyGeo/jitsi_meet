@@ -2,7 +2,7 @@
 
 #### Support us using our patreon account. https://www.patreon.com/Gunschu
 
-This is a copy of official [jitsi_meet](https://pub.dev/packages/jitsi_meet) package.
+This is a copy of the official [jitsi_meet](https://pub.dev/packages/jitsi_meet) package.
 I copied it just to adjust few things and use it. I have no intention of making any type of profit out of this code-source.
 
 
